@@ -1,3 +1,0 @@
-int edad 25
-if contador elese while1 100
-while @
