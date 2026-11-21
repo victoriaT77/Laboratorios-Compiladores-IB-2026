@@ -1,0 +1,6 @@
+
+RESULTADOS
+Mayusculas: 3
+Minusculas: 10
+Digitos: 7
+Espacios en blanco: 5

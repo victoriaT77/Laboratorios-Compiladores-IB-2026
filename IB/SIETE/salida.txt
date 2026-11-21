@@ -1,0 +1,30 @@
+Caracter no reconocido: a
+Operador aritmetico: +
+Caracter no reconocido: b
+Caracter no reconocido: c
+Operador aritmetico: -
+Caracter no reconocido: d
+Caracter no reconocido: e
+Operador aritmetico: *
+Caracter no reconocido: f
+Caracter no reconocido: g
+Operador aritmetico: /
+Caracter no reconocido: h
+Caracter no reconocido: a
+Operador relacional: <
+Caracter no reconocido: b
+Caracter no reconocido: c
+Operador relacional: <=
+Caracter no reconocido: d
+Caracter no reconocido: e
+Operador relacional: >
+Caracter no reconocido: f
+Caracter no reconocido: g
+Operador relacional: >=
+Caracter no reconocido: h
+Caracter no reconocido: x
+Operador relacional: ==
+Caracter no reconocido: y
+Caracter no reconocido: z
+Operador relacional: !=
+Caracter no reconocido: w

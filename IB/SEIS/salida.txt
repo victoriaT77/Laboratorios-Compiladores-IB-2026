@@ -1,0 +1,11 @@
+Palabra reservada: int
+Identificador: edad
+Caracter no reconocido: =
+Numero entero: 20
+Caracter no reconocido: ;
+Palabra reservada: if
+Identificador: edad
+Palabra reservada: while
+Identificador: contador
+Palabra reservada: else
+Identificador: numero123

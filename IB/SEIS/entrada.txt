@@ -1,0 +1,2 @@
+int edad = 20;
+if edad while contador else numero123
