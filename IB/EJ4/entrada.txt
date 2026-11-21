@@ -1,0 +1,3 @@
+HOLA Mundo 2026!
+SELECT Nombre FROM Estudiantes WHERE Nota >= 14;
+EPN - Compiladores y Lenguajes
