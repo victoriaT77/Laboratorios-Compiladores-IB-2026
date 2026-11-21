@@ -1,0 +1,6 @@
+CORREO VALIDO (TOKEN_EMAIL): nombre@dominio.com
+CORREO VALIDO (TOKEN_EMAIL): victoria.torres@epn.edu.ec
+CORREO VALIDO (TOKEN_EMAIL): soporte_2026@empresa.org
+NO VALIDO: usuario@sinextension
+NO VALIDO: @dominio.com
+NO VALIDO: correo.invalido
