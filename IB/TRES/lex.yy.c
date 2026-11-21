@@ -438,10 +438,10 @@ int yy_flex_debug = 0;
 char *yytext;
 #line 1 "tres.l"
 #line 2 "tres.l"
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
-int numlin = 0, numcar = 0;
+#include<stdlib.h>
+#include<stdio.h>
+#include<string.h>
+int numlin=0, numcar=0;
 #line 446 "lex.yy.c"
 #line 447 "lex.yy.c"
 
@@ -1749,5 +1749,4 @@ int main()
     printf("Número de caracteres %d\n", numcar);
     return 0;
 }
-
 

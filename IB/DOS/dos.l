@@ -1,6 +1,6 @@
 /* Declaraciones */
 %{
-#include <stdio.h>
+#include <stdio.h> // necesario para realizar "printf" de abajo
 %}
 /* Reglas */
 %%

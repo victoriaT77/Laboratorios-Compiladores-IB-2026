@@ -1,0 +1,9 @@
+Estimado cliente,
+Al recibir este mensaje ejecute Comando inicio ejecutado
+ para que  el sistema de quejas funcione.
+Si detecta alguna falla durante la sesion, envie Comando pare recibido
+ de inmediato.
+Luego de revisar cada uno de los logs, vuelva a mandar Comando inicio ejecutado
+ y al terminar la jornada presione Comando pare recibido
+.
+Atentamente, soporte tecnico.

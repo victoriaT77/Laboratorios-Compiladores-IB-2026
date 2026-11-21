@@ -1,0 +1,4 @@
+Hola Inge que tal
+Este es el laboratorio 3
+que es un contador de lineas y caracteres
+para la clase de compiladores

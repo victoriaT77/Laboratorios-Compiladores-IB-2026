@@ -1,8 +1,8 @@
 %{
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
-int numlin = 0, numcar = 0;
+#include<stdlib.h>
+#include<stdio.h>
+#include<string.h>
+int numlin=0, numcar=0;
 %}
 %%
 [\n]    numlin++;
@@ -15,4 +15,3 @@ int main()
     printf("Número de caracteres %d\n", numcar);
     return 0;
 }
-

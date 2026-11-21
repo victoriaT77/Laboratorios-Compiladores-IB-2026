@@ -446,7 +446,7 @@ char *yytext;
 #line 1 "dos.l"
 /* Declaraciones */
 #line 3 "dos.l"
-#include <stdio.h>
+#include <stdio.h> // necesario para realizar "printf" de abajo
 #line 451 "lex.yy.c"
 /* Reglas */
 #line 453 "lex.yy.c"

@@ -1,0 +1,9 @@
+Binario: 0 -> Decimal: 0
+Binario: 1 -> Decimal: 1
+Binario: 101 -> Decimal: 5
+Binario: 1010 -> Decimal: 10
+Binario: 1111 -> Decimal: 15
+Binario: 10000000 -> Decimal: 128
+Binario: 1101011 -> Decimal: 107
+Binario: 101100 -> Decimal: 44
+No es binario: abc

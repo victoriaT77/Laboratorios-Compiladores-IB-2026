@@ -1,0 +1,8 @@
+Hexadecimal: 0x1A3F -> Decimal: 6719
+Hexadecimal: 0x0 -> Decimal: 0
+Hexadecimal: 0xFF -> Decimal: 255
+Hexadecimal: 0x10 -> Decimal: 16
+Hexadecimal: 0X2b -> Decimal: 43
+Hexadecimal: 0xDEAD -> Decimal: 57005
+No es hexadecimal: 0x1G3
+No es hexadecimal: 1A3F

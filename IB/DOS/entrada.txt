@@ -1,3 +1,5 @@
-inicio
-pare
-
+Estimado cliente,
+Al recibir este mensaje ejecute inicio para que  el sistema de quejas funcione.
+Si detecta alguna falla durante la sesion, envie pare de inmediato.
+Luego de revisar cada uno de los logs, vuelva a mandar inicio y al terminar la jornada presione pare.
+Atentamente, soporte tecnico.

@@ -321,7 +321,6 @@ void yyfree ( void *  );
 	}
 #define YY_AT_BOL() (YY_CURRENT_BUFFER_LVALUE->yy_at_bol)
 
-/* Begin user sect3 */
 typedef flex_uint8_t YY_CHAR;
 
 FILE *yyin = NULL, *yyout = NULL;
@@ -436,8 +435,8 @@ int yy_flex_debug = 0;
 #define YY_MORE_ADJ 0
 #define YY_RESTORE_YY_MORE_OFFSET
 char *yytext;
-#line 1 "UNO.l.cc"
-#line 441 "lex.yy.c"
+#line 1 "uno.l"
+#line 440 "lex.yy.c"
 
 #define INITIAL 0
 
@@ -654,7 +653,8 @@ YY_DECL
 		}
 
 	{
-#line 1 "UNO.l.cc"
+#line 1 "uno.l"
+
 
 #line 660 "lex.yy.c"
 
@@ -715,7 +715,7 @@ do_action:	/* This label is used only to access EOF actions. */
 
 case 1:
 YY_RULE_SETUP
-#line 2 "UNO.l.cc"
+#line 3 "uno.l"
 ECHO;
 	YY_BREAK
 #line 722 "lex.yy.c"
@@ -1723,6 +1723,4 @@ void yyfree (void * ptr )
 
 #define YYTABLES_NAME "yytables"
 
-#line 2 "UNO.l.cc"
-
-
+#line 3 "uno.l"

@@ -1,0 +1,3 @@
+contador, 45, _temp, 100
+suma, 3.14, @precio, 2a, total2
+x, y, 0, #error, 2026
