@@ -2,11 +2,11 @@
 
 **Escuela Politécnica Nacional (EPN)** — Facultad de Ingeniería de Sistemas (FIS)  
 **Asignatura:** Compiladores y Lenguajes (GR1SW)  
-**Integrantes:** Victoria Yureisy Torres Quiñonez, Josue, Dannae  
+**Integrantes:** Victoria Yureisy Torres Quiñonez, Josue Astudillo, Dannae Martinez 
 
 ---
 
-## Descripción del Proyecto
+## Descripción 
 
 Este repositorio recopila las prácticas de laboratorio correspondientes a la primera fase de un compilador: el **análisis léxico (*scanner*)**, implementadas mediante el generador **Lex/Flex** y compiladas con **GCC** sobre entornos GNU/Linux (Ubuntu).
 
